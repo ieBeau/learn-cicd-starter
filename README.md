@@ -1,4 +1,4 @@
-![code coverage badge](https://github.com/iebeau/learn-cicd-starter/actions/workflows/CI.yml/badge.svg)
+![code coverage badge](https://github.com/iebeau/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # Learn CI/CD Starter (Notely)
 
